@@ -1,3 +1,6 @@
+;;;; ENV: Windows DosBox ;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 ; 数据段
 DATA SEGMENT
 divisors DW 10000, 1000, 100, 10, 1  ; DW：Double Word
